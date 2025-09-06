@@ -39,22 +39,22 @@ The dataset includes:
 
 ## 📋 Installation
 
-#Clone the repository
+###Clone the repository
 `git clone https://github.com/venkamita/EDA-on-San-Antonio-Spurs-for-last-three-seasons.git`
 
-#Navigate to project directory
+###Navigate to project directory
 `cd EDA-on-San-Antonio-Spurs-for-last-three-seasons`
 
-#Install required packages
+###Install required packages
 `pip install pandas numpy matplotlib seaborn beautifulsoup4 requests`
 
 ## 📁 File Structure
-`
+
 ├── spurs_basic_eda.ipynb # Main analysis notebook\
 ├── spurs_2025.html # 2024-25 season data\
 ├── spurs_2024.html # 2023-24 season data\
 ├── spurs_2023.html # 2022-23 season data\
-└── README.md # This file`
+└── README.md # This file
 
 
 ## 📝 License
