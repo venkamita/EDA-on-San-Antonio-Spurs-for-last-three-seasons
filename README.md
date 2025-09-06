@@ -39,13 +39,13 @@ The dataset includes:
 
 ## 📋 Installation
 
-###Clone the repository
+Clone the repository
 `git clone https://github.com/venkamita/EDA-on-San-Antonio-Spurs-for-last-three-seasons.git`
 
-###Navigate to project directory
+Navigate to project directory
 `cd EDA-on-San-Antonio-Spurs-for-last-three-seasons`
 
-###Install required packages
+Install required packages
 `pip install pandas numpy matplotlib seaborn beautifulsoup4 requests`
 
 ## 📁 File Structure
